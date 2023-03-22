@@ -1301,3 +1301,8 @@ section {
   color: #0c2e8a;
 }
 
+.img-icons {
+  max-width: 64px;
+  max-height: 64px;
+  width: 100%;
+}
