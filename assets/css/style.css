@@ -1306,3 +1306,9 @@ section {
   max-height: 64px;
   width: 100%;
 }
+
+@media (max-width: 470px) {
+  .mobile-font {
+    font-size: 9px;
+  }
+}
